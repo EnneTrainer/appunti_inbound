@@ -1,3 +1,5 @@
+INBOUND 9.00 / 11.00
+
 INC000000798162: (ticket creato)
 il vas sistemato l'altro giorno non riesce ad accedere 6150f non si collega con il 6356 
 Monari mirco 30429
@@ -9,4 +11,94 @@ testina scollegata fa uno strano rumore (TRASFERITO AD ISACCO)
 marco gori 20137
 cross non stampa, chiedere da dove non stampa ordini lavoro ne dal server ne dalla posizione del salone e ne dall'officina
 
-- 
+- INC000000798194: (risolto)
+Luca Tilli 816
+collegato e rimosso la spunta da PA e PV invalidi sotto visione dell'org, ora il ddt è stato caricato correttamente.
+
+- 01645 - girato a emmanuel
+
+- capatti 00384 
+
+- INC000000797721: 00865 Simone Brunson risolto
+collegato e rimosso la spunta da PA e PV invalidi sotto visione dell'org, ora il ddt è stato caricato correttamente.
+INC000000798215: (stesso org) analisi fatturato ricambi
+
+- INC000000798199:
+hanno installato una nuova stampante, ma deve configurarla sostituendo una vecchia.
+
+- LUCA 00892 
+
+- Claudia 30118
+non riesce ad accedere al cem, provato a fare un ripristino psw ma non gli arriva mail, 
+
+- INC000000797093: Trasferita a Nicolò
+
+- INC000000797552: ticket chiuso per mancate risposte
+
+- INC000000798247 
+01894 luca lombardo:
+chiede la modifica dell'anagrafica del business partner per cambio ragione sociale
+
+- INC000000797050: analisi
+magazzino>lista ricambi prenotati e lasciare la spunta sui preparati.
+
+- stampante in riparazione, tornata funziona da tutte le postazioni, tranne la fatturazione di cross, quelle non vanno
+
+- donatella, 949, errore genera
+
+- INC000000798258: 
+trasmettere consegna vettura con il nome del marito
+
+- cazzato clara, 20165, magazzino completo di giacenze e con localizzazione
+INC000000798260: 
+Comunica che deve fare una analisi di magazzino per vedere tutti i ricambi che ha a disposizione
+
+- INC000000797092 sublager (NON RISPONDE)
+vedere se la postazione di lavoro si trova nella location corretta (manutenzione>varie>postazioni di lavoro, 
+andare su quella di questo pc e vedere se la location è corretta)
+vedere su quali odl succede e girarla al II livello.
+
+- INC000000793866
+collegato ed aggiunto GIACOMEL come fornitore VW nella sezione gruppo marca, avvisato che per il tipo di ordine urgente non è modificabile.
+
+- INC000000798265
+spiegato di contattare le garanzie al numero 045 9691206 per capire se ci sono soluzioni per il limite di garanzia
+
+- INC000000795234 vs
+chiedere a di donna se devono sentire adawen, essendo cod org 90092 (GIRATO AD EMANUELE)
+
+- non riesce ad accedere con petra con l'utenza di una collega valentina spezzano, riesce ad accedere
+
+- nano losiana, 80658 girato a 2VEI
+riesce ad accedere con petra con l'utenza di una collega valentina spezzano
+
+- 30099 alessandro CROSS-STAMPE, girato a yuri
+
+- INC000000798317 
+0459691200
+
+- INC000000798340
+resettata la password del dfs per l'utenza 24600452, ora accede correttamente
+
+
+- INC000000798350
+deve cambiare il numero del responsabile clienti 
+modificato il numero cellulare del responsabile clienti mettendo il numero aziendale nell'anagrafica
+
+- pdipalio dascanio audi bloccata solo
+tk assegnato a service.
+
+- 30790 cross 
+
+true		30790	2024000061 01	22.01.2024		68.78		7-10	69DV	WVWZZZ9NZ9Y048640	2023 | Invio dei dati a DMS, nessuna connessione
+
+
+
+
+
+
+
+
+
+
+
