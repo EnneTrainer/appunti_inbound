@@ -96,17 +96,29 @@ INC000000806323 saga risolto
 INC000000806224 risolto
 INC000000799798 risolto
 INC000000803563 risolto
-
+INC000000806024 risolto
+INC000000806260 risolto
+INC000000803307 risolto
+INC000000806098 risolto
+INC000000805941 msr risolto
+INC000000804736 chiuso
+INC000000805361 chiedere se il problema lo da anche facendo dal server (michele)
+INC000000805169 vgi system risolto
+INC000000803256 vgi chiuso no riscontro
 
 da fare:
-INC000000803307 da controllare
+INC000000803307 NOTE DI DEBITO BLOCCATE, QUELLA RIMOSSA E RIINVIATA FINISCE CON 66
+INC000000806106 non risponde x1 (utenza)
 INC000000801251 estrazione 
-INC000000805361 chiedere se il problema lo da anche facendo dal server
-INC000000805169 richiamare tra 10 minuti
-INC000000804736 riprovare x1
-INC000000803585
-INC000000806260 richiamare
 INC000000806207 domani
+INC000000806424 saga richiamare
+INC000000805969 richiamare
+INC000000806124 analisi
+
+di martino 00849
+13010401768
+30156
+quaini
 
 da aggiungere
 
@@ -121,4 +133,4 @@ difficoltà di accesso da petra su skoda supercar oggi chiede id e password
 TWICE del giorno:
 true		30082	2024000603 01	28.02.2024		200.08		1-10	9354	WVWZZZE1ZPP009511	2023 | Invio dei dati a DMS, nessuna connessione
 true                 02147  2024000545 01          05.03.2024                  67.37               7-10     69DV            WVWZZZ9NZ8Y025630        2023 | Invio dei dati a DMS, nessuna connessione
-
+true		00125	2024001039 01	06.03.2024		116.09		7-10	69EJ	WVWZZZ6RZAY178620	2023 | Invio dei dati a DMS, nessuna connessione
